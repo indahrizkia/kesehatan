@@ -35,7 +35,7 @@ Deskripsi Program :
 
 Pada eksekusi ini semua data inputan user dihilangkan. Data yang dihapus adalah data yang ada ditampilan maupun di inputan user yang telah diketik.
 
-Validasi
+VALIDASI
 
 ![Screenshoot](validasi.png)
 
